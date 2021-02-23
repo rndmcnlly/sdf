@@ -8,6 +8,8 @@ Special thanks to [Inigo Quilez](https://iquilezles.org/) for his excellent docu
 - [3D Signed Distance Functions](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 - [2D Signed Distance Functions](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rndmcnlly/sdf-binder/HEAD?filepath=examples%2FExampleNotebook.ipynb)
+
 ## Example
 
 <img width=350 align="right" src="docs/images/example.png">
